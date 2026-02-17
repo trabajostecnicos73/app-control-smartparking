@@ -1,0 +1,11 @@
+.App {
+  width: 100%;
+  min-height: 100vh;
+}
+
+code {
+  background-color: #1a1a1a;
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-family: 'Courier New', monospace;
+}
